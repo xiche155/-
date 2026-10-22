@@ -1,7 +1,7 @@
 {
     "success": true,
     "version": "3.3.0-beta",
-    "url": "http://127.0.0.1/a.exe",
-    "notes": "1. 修复了已知问题\n2. 优化了性能",
+    "url": "https://ghproxy.net/https://github.com/xiche155/suxun-assistant/releases/download/3.3.0/default.exe",
+    "notes": "1. 优化了自动更新逻辑\n2. 修复了图片发送闪退\n3. 新增图片拖拽功能",
     "force": false
 }
