@@ -1,7 +1,7 @@
 {
     "success": true,
     "version": "3.3.0-beta",
-    "url": "随便填一个测试链接，比如 http://127.0.0.1/a.exe",
+    "url": "http://127.0.0.1/a.exe",
     "notes": "1. 修复了已知问题\n2. 优化了性能",
     "force": false
 }
