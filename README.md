@@ -46,7 +46,6 @@
 - **GUI 框架**：PySide6 (Qt 6)
 - **UI 描述**：QML (Qt Quick)
 - **自动化库**：`pyautogui`, `pyperclip`, `win32clipboard`
-- **打包工具**：PyInstaller
 
 ---
 
