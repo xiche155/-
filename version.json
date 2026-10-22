@@ -2,6 +2,6 @@
     "success": true,
     "version": "3.3.0-beta",
     "url": "https://github.com/xiche155/suxun-assistant/releases/download/3.3.0/suxun_v3.3.0.exe",
-    "notes": "1. 修复了更新弹窗位置\n2. 优化了自动更新逻辑\n3. 新增图片拖拽功能",
+    "notes": "1. 新增启动静默检查，打开软件自动检测\n2. 接入国内加速节点，解决下载超时问题\n3. 更新弹窗升级为与主界面一致的毛玻璃样式\n4. 图片发送新增拖拽添加功能，修复点击闪退",
     "force": false
 }
