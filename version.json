@@ -1,0 +1,6 @@
+{
+  "version": "3.1.1",
+  "url": "http://127.0.0.1/download/update.exe",
+  "notes": "1. 修复了已知问题\n2. 优化了性能",
+  "force": false
+}
