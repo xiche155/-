@@ -1,7 +1,7 @@
 {
     "success": true,
-    "version": "3.3.1",
-    "notes": "1. 新增全新音效系统，支持内置与自定义音效。\n2. 优化了界面视觉，去除多余符号。\n3. 修复了部分环境无法播放声音的Bug。\n4. 改为单文件发布模式。",
-    "url": "https://github.com/xiche155/suxun-assistant/releases/download/v3.3.1/_v3.3.1.exe",
+    "version": "3.3.2",
+    "url": "https://github.com/xiche155/suxun-assistant/releases/download/v3.3.2/_v3.3.2.exe",
+    "notes": "1. 修复旧版本自动更新失败（提示找不到模块）的核心Bug。\n2. 新增音效设置页面，内置5款提示音并支持自定义替换。\n3. 去除界面Emoji符号，优化整体UI视觉与底层稳定性。\n\n注意：本次更新请手动下载并覆盖原文件，之后的版本即可正常自动更新。",
     "force": false
 }
