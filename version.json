@@ -1,7 +1,7 @@
 {
     "success": true,
-    "version": "3.3.0-beta",
-    "url": "https://github.com/xiche155/suxun-assistant/releases/download/3.3.0/suxun_v3.3.0.exe",
-    "notes": "1. 新增启动静默检查，打开软件自动检测\n2. 接入国内加速节点，解决下载超时问题\n3. 更新弹窗升级为与主界面一致的毛玻璃样式\n4. 图片发送新增拖拽添加功能，修复点击闪退",
+    "version": "3.3.1",
+    "notes": "1. 新增全新音效系统，支持内置与自定义音效。\n2. 优化了界面视觉，去除多余符号。\n3. 修复了部分环境无法播放声音的Bug。\n4. 改为单文件发布模式。",
+    "url": "https://github.com/xiche155/suxun-assistant/releases/download/v3.3.1/_v3.3.1.exe",
     "force": false
 }
