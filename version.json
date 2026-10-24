@@ -1,7 +1,7 @@
 {
     "success": true,
-    "version": "3.3.3",
-    "url": "https://github.com/xiche155/suxun-assistant/releases/download/v3.3.3/_v3.3.3.exe",
-    "notes": "【重要更新】\n1. 彻底修复更新完成后报错“找不到模块”的致命Bug。\n2. 彻底解决更新覆盖时出现黑框的问题，实现无痕更新。\n3. 本次受限于旧版底层缺陷，请务必手动下载覆盖一次。从 3.3.3 之后，自动更新将 100% 完美运行。",
+    "version": "3.3.4",
+    "url": "https://github.com/xiche155/suxun-assistant/releases/download/v3.3.4/suxun_v3.3.4.exe",
+    "notes": "【重要修复】\n1. 彻底解决自动更新时闪黑框、卡CMD窗口的问题，实现无感静默更新。\n2. 优化更新后的启动环境，彻底告别更新完成找不到模块的报错。\n3. 完善音效系统，确保发送完成能稳定触发。",
     "force": false
 }
