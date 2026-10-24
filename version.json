@@ -1,7 +1,7 @@
 {
     "success": true,
     "version": "3.3.5",
-    "url": "https://github.com/xiche155/suxun-assistant/releases/download/v3.3.5/suxun_v3.3.5.exe",
+    "url": "https://gh-proxy.com/https://github.com/xiche155/suxun-assistant/releases/download/v3.3.5/suxun_v3.3.5.exe",
     "notes": "【重要修复】\n1. 彻底修复更新完成后不自动打开的问题。\n2. 彻底消灭更新覆盖时可能出现的黑框闪烁。\n3. 优化后台替换逻辑，增加30次重试和容错保底机制。\n4. 完善更新界面的状态反馈（下载到100%时提示正在替换文件）。",
     "force": false
 }
